@@ -1,8 +1,12 @@
 h1{
-  font-size:100px;
-  color:#B7E3EC;
+background-color:#000;
+color:#fff;
+font-size:3em;
 }
-<style> body{background-color: black; color: white;} </style>
+p.fancy{
+  color:#666;
+  font-style: oblique;
+}
 ul.nav li{
   display:inline;
   padding:10px;
