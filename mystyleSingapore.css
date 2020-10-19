@@ -1,0 +1,13 @@
+h1{
+  font-size:100px;
+  color:#000FF;
+}
+ul.nav li{
+  display:inline;
+  padding:10px;
+}
+ul.nav. li a{
+  display:block;
+  padding:10px;
+  background-color;#FF00FF
+}
